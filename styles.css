@@ -1,0 +1,5 @@
+.table-section {
+  height: 50vh;
+  overflow-y: scroll;
+  scrollbar-color: transparent;
+}
